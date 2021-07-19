@@ -24,9 +24,11 @@ A template for building OpenWrt with GitHub Actions
 
 ## Credits
 
+- [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
+- [immortalwrt](https://github.com/immortalwrt/immortalwrt)
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
 - [tmate](https://github.com/tmate-io/tmate)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
